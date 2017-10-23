@@ -1,2 +1,2 @@
 # profile
-This is my common configuration file for linux
+这是我使用电脑软件的遇见的各种问题解决集锦。
