@@ -1,0 +1,11 @@
+我非常喜欢这个emacs主题：https://github.com/dracula/emacs
+
+今天在windows7上正式使用了这个软件，体验还是很顺利。在自定义上遇到了一
+些问题：
+
+1.Windows7的HOME变量为
+“C:\Users\Administrator\AppData\Roaming”
+
+2.emacs每次启动都会执行HOME
+目录下的.emacs.d/init.el，目前我还不会lisp，所以直接把下载得到的主题更
+改为init.el，成功执行。
